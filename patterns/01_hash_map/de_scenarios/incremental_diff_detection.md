@@ -132,4 +132,4 @@ See: [1. Two Sum](../problems/001_two_sum.md), [217. Contains Duplicate](../prob
 
 ## Benchmark
 
-See the `.py` file for timing comparisons. At 50K records, hash map diff runs in ~0.2s vs a projected ~0.7s for the naive approach - roughly 4x faster.
+See the `.py` file for timing comparisons. At 50K records, hash map diff runs in ~0.584s vs a projected ~2.5s for the naive approach - roughly 4x faster.

@@ -88,4 +88,4 @@ See: [217. Contains Duplicate](../problems/217_contains_duplicate.md)
 
 ## Benchmark
 
-See the `.py` file for comparisons across dedup strategies. At 1M events: simple set-based dedup runs in ~0.4s, time-windowed in ~0.3s. The Bloom filter variant uses less memory at the cost of false positives.
+See the `.py` file for comparisons across dedup strategies. At 1M events: simple set-based dedup runs in ~0.603s, time-windowed in ~1.451s. The Bloom filter variant uses less memory at the cost of false positives.

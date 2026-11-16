@@ -85,4 +85,4 @@ See: [1. Two Sum](../problems/001_two_sum.md)
 
 ## Benchmark
 
-See the `.py` file for timing at scale. At 500K events with 50K users, hash map lookup completes in ~0.3s vs a projected ~19s for the naive scan - roughly 70x faster.
+See the `.py` file for timing at scale. At 500K events with 50K users, hash map lookup completes in ~0.926s vs a projected ~95.3s for the naive scan - roughly ~103x faster.

@@ -84,4 +84,4 @@ See: [49. Group Anagrams](../problems/049_group_anagrams.md), [347. Top K Freque
 
 ## Benchmark
 
-See the `.py` file for timing at scale. Multi-metric aggregation over 1M records with 100 groups completes in ~0.2s - a single pass.
+See the `.py` file for timing at scale. Multi-metric aggregation over 1M records with 100 groups completes in ~0.413s - a single pass.
