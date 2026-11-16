@@ -327,7 +327,7 @@ One core pattern per day. Focus on Very Common and Common problems first.
 - [Group Anagrams](../patterns/01_hash_map/problems/049_group_anagrams.md) - Medium ✅
 
 *System Design (15 min):*
-- Read [Communication Framework](../system_design/foundations/communication_framework.md)
+- Read [Communication Framework](../system_design/foundations/communication_framework.md) ✅
 
 #### Day 2: Hash Maps - Applications (~2.5 hours)
 
@@ -336,7 +336,7 @@ One core pattern per day. Focus on Very Common and Common problems first.
 - [Longest Consecutive Sequence](../patterns/01_hash_map/problems/128_longest_consecutive.md) - Medium ✅
 
 *System Design (15 min):*
-- Read [Tradeoff Framework](../system_design/foundations/tradeoff_framework.md)
+- Read [Tradeoff Framework](../system_design/foundations/tradeoff_framework.md) ✅
 
 *Benchmark:*
 - Run [Hash Map vs Nested Loop](../benchmarks/hash_map_vs_nested_loop.py) to see O(n) vs O(n^2)
@@ -357,7 +357,7 @@ One core pattern per day. Focus on Very Common and Common problems first.
 - [Koko Eating Bananas](../patterns/03_binary_search/problems/875_koko_bananas.md) - Medium
 
 *System Design (15 min):*
-- Read [Capacity Estimation](../system_design/foundations/capacity_estimation.md)
+- Read [Capacity Estimation](../system_design/foundations/capacity_estimation.md) ✅
 
 *Benchmark:*
 - Run [Binary Search vs Linear](../benchmarks/binary_search_vs_linear.py)
