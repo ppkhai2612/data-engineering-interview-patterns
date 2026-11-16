@@ -321,19 +321,19 @@ One core pattern per day. Focus on Very Common and Common problems first.
 
 #### Day 1: Hash Maps - Fundamentals (~2.5 hours)
 
-- [Two Sum](../patterns/01_hash_map/problems/001_two_sum.md) - Easy
-- [Contains Duplicate](../patterns/01_hash_map/problems/217_contains_duplicate.md) - Easy
-- [Valid Anagram](../patterns/01_hash_map/problems/242_valid_anagram.md) - Easy
-- [Group Anagrams](../patterns/01_hash_map/problems/049_group_anagrams.md) - Medium
+- [Two Sum](../patterns/01_hash_map/problems/001_two_sum.md) - Easy ✅
+- [Contains Duplicate](../patterns/01_hash_map/problems/217_contains_duplicate.md) - Easy ✅
+- [Valid Anagram](../patterns/01_hash_map/problems/242_valid_anagram.md) - Easy ✅
+- [Group Anagrams](../patterns/01_hash_map/problems/049_group_anagrams.md) - Medium ✅
 
 *System Design (15 min):*
 - Read [Communication Framework](../system_design/foundations/communication_framework.md)
 
 #### Day 2: Hash Maps - Applications (~2.5 hours)
 
-- [Top K Frequent Elements](../patterns/01_hash_map/problems/347_top_k_frequent.md) - Medium
-- [Subarray Sum Equals K](../patterns/01_hash_map/problems/560_subarray_sum_k.md) - Medium
-- [Longest Consecutive Sequence](../patterns/01_hash_map/problems/128_longest_consecutive.md) - Medium
+- [Top K Frequent Elements](../patterns/01_hash_map/problems/347_top_k_frequent.md) - Medium ✅
+- [Subarray Sum Equals K](../patterns/01_hash_map/problems/560_subarray_sum_k.md) - Medium ✅
+- [Longest Consecutive Sequence](../patterns/01_hash_map/problems/128_longest_consecutive.md) - Medium ✅
 
 *System Design (15 min):*
 - Read [Tradeoff Framework](../system_design/foundations/tradeoff_framework.md)
@@ -465,9 +465,9 @@ Cover the remaining five pattern categories and begin the SQL section.
 
 #### Day 14: Hash Map Advanced + SQL Joins (~3 hours)
 
-- [LRU Cache](../patterns/01_hash_map/problems/146_lru_cache.md) - Medium
-- [Design Twitter](../patterns/01_hash_map/problems/355_design_twitter.md) - Medium
-- [Insert Delete GetRandom O(1)](../patterns/01_hash_map/problems/380_insert_delete_random.md) - Medium
+- [LRU Cache](../patterns/01_hash_map/problems/146_lru_cache.md) - Medium ✅
+- [Design Twitter](../patterns/01_hash_map/problems/355_design_twitter.md) - Medium ✅
+- [Insert Delete GetRandom O(1)](../patterns/01_hash_map/problems/380_insert_delete_random.md) - Medium ✅
 
 *SQL (2 problems):*
 - [Customers Who Never Order](../sql/02_joins/problems/183_customers_who_never_order.md) - Easy
