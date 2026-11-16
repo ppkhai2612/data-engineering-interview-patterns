@@ -339,7 +339,7 @@ One core pattern per day. Focus on Very Common and Common problems first.
 - Read [Tradeoff Framework](../system_design/foundations/tradeoff_framework.md) ✅
 
 *Benchmark:*
-- Run [Hash Map vs Nested Loop](../benchmarks/hash_map_vs_nested_loop.py) to see O(n) vs O(n^2)
+- Run [Hash Map vs Nested Loop](../benchmarks/hash_map_vs_nested_loop.py) to see O(n) vs O(n^2) ✅
 
 #### Day 3: Two Pointers (~2.5 hours)
 
