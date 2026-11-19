@@ -343,12 +343,12 @@ One core pattern per day. Focus on Very Common and Common problems first.
 
 #### Day 3: Two Pointers (~2.5 hours)
 
-- [Merge Sorted Array](../patterns/02_two_pointers/problems/088_merge_sorted.md) - Easy
-- [3Sum](../patterns/02_two_pointers/problems/015_three_sum.md) - Medium
-- [Container With Most Water](../patterns/02_two_pointers/problems/011_container_water.md) - Medium
+- [Merge Sorted Array](../patterns/02_two_pointers/problems/088_merge_sorted.md) - Easy ✅
+- [3Sum](../patterns/02_two_pointers/problems/015_three_sum.md) - Medium ✅
+- [Container With Most Water](../patterns/02_two_pointers/problems/011_container_water.md) - Medium ✅
 
 *Benchmark:*
-- Run [Two Pointer Merge vs Sort](../benchmarks/two_pointer_merge_vs_sort.py)
+- Run [Two Pointer Merge vs Sort](../benchmarks/two_pointer_merge_vs_sort.py) ✅
 
 #### Day 4: Binary Search (~2.5 hours)
 
@@ -402,7 +402,7 @@ Cover the remaining five pattern categories and begin the SQL section.
 - [Insert Interval](../patterns/07_intervals/problems/057_insert_interval.md) - Medium
 
 *System Design (20 min):*
-- Read [Ingestion Patterns](../system_design/patterns/ingestion_patterns.md)
+- Read [Ingestion Patterns](../system_design/patterns/ingestion_patterns.md) ✅
 
 *Benchmark:*
 - Run [Interval Merge](../benchmarks/interval_merge.py)
@@ -481,7 +481,7 @@ Complete all remaining algorithmic problems while working through the SQL sectio
 
 #### Day 15: Two Pointers Deep Dive (~3 hours)
 
-- [Remove Duplicates from Sorted Array](../patterns/02_two_pointers/problems/026_remove_duplicates.md) - Easy
+- [Remove Duplicates from Sorted Array](../patterns/02_two_pointers/problems/026_remove_duplicates.md) - Easy ✅
 - [Trapping Rain Water](../patterns/02_two_pointers/problems/042_trapping_rain_water.md) - Hard
 - [Two Sum II](../patterns/02_two_pointers/problems/167_two_sum_ii.md) - Medium
 - [Sort Colors](../patterns/02_two_pointers/problems/075_sort_colors.md) - Medium
@@ -495,7 +495,7 @@ Complete all remaining algorithmic problems while working through the SQL sectio
 
 #### Day 16: Array Fundamentals Catch-up (~3 hours)
 
-- [Move Zeroes](../patterns/02_two_pointers/problems/283_move_zeroes.md) - Easy
+- [Move Zeroes](../patterns/02_two_pointers/problems/283_move_zeroes.md) - Easy ✅
 - [Squares of a Sorted Array](../patterns/02_two_pointers/problems/977_squares_sorted.md) - Easy
 - [Search Insert Position](../patterns/03_binary_search/problems/035_search_insert.md) - Easy
 - [Search a 2D Matrix](../patterns/03_binary_search/problems/074_search_2d_matrix.md) - Medium
