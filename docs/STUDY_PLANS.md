@@ -415,7 +415,7 @@ Cover the remaining five pattern categories and begin the SQL section.
 - [Evaluate Reverse Polish Notation](../patterns/08_stack/problems/150_eval_rpn.md) - Medium
 
 *SQL (1 problem):*
-- [Second Highest Salary](../sql/01_window_functions/problems/176_second_highest_salary.md) - Medium
+- [Second Highest Salary](../sql/01_window_functions/problems/176_second_highest_salary.md) - Medium ✅
 
 #### Day 10: Trees and Recursion (~3 hours)
 
@@ -425,7 +425,7 @@ Cover the remaining five pattern categories and begin the SQL section.
 - [Subtree of Another Tree](../patterns/10_recursion_trees/problems/572_subtree.md) - Easy
 
 *SQL (1 problem):*
-- [Rank Scores](../sql/01_window_functions/problems/178_rank_scores.md) - Medium
+- [Rank Scores](../sql/01_window_functions/problems/178_rank_scores.md) - Medium ✅
 
 #### Day 11: Probabilistic Structures (~3 hours)
 
@@ -434,8 +434,8 @@ Cover the remaining five pattern categories and begin the SQL section.
 - [Count-Min Sketch](../patterns/11_probabilistic_structures/problems/count_min_sketch.md) - Medium
 
 *SQL (2 problems):*
-- [Rising Temperature](../sql/01_window_functions/problems/197_rising_temperature.md) - Easy
-- [Consecutive Numbers](../sql/01_window_functions/problems/180_consecutive_numbers.md) - Medium
+- [Rising Temperature](../sql/01_window_functions/problems/197_rising_temperature.md) - Easy ✅
+- [Consecutive Numbers](../sql/01_window_functions/problems/180_consecutive_numbers.md) - Medium ✅
 
 *System Design (20 min):*
 - Read [Data Modeling Patterns](../system_design/patterns/data_modeling_patterns.md)
@@ -448,7 +448,7 @@ Cover the remaining five pattern categories and begin the SQL section.
 - [Remove Comments](../patterns/09_string_parsing/problems/722_remove_comments.md) - Medium
 
 *SQL (1 problem):*
-- [Department Highest Salary](../sql/01_window_functions/problems/184_department_highest_salary.md) - Medium
+- [Department Highest Salary](../sql/01_window_functions/problems/184_department_highest_salary.md) - Medium ✅
 
 #### Day 13: Combined Patterns (~3 hours)
 
@@ -487,8 +487,8 @@ Complete all remaining algorithmic problems while working through the SQL sectio
 - [Sort Colors](../patterns/02_two_pointers/problems/075_sort_colors.md) - Medium
 
 *SQL (2 problems):*
-- [Department Top Three Salaries](../sql/01_window_functions/problems/185_department_top_three_salaries.md) - Hard
-- [Nth Highest Salary](../sql/01_window_functions/problems/177_nth_highest_salary.md) - Medium
+- [Department Top Three Salaries](../sql/01_window_functions/problems/185_department_top_three_salaries.md) - Hard ✅
+- [Nth Highest Salary](../sql/01_window_functions/problems/177_nth_highest_salary.md) - Medium ✅
 
 *System Design (20 min):*
 - Read [Data Quality Patterns](../system_design/patterns/data_quality_patterns.md)
@@ -512,7 +512,7 @@ Complete all remaining algorithmic problems while working through the SQL sectio
 
 *SQL (2 problems):*
 - [Trips and Users](../sql/02_joins/problems/262_trips_and_users.md) - Hard
-- [Game Play Analysis IV](../sql/01_window_functions/problems/550_game_play_analysis_iv.md) - Medium
+- [Game Play Analysis IV](../sql/01_window_functions/problems/550_game_play_analysis_iv.md) - Medium ✅
 
 *System Design (20 min):*
 - Read [Scale and Performance](../system_design/patterns/scale_and_performance.md)
@@ -525,7 +525,7 @@ Complete all remaining algorithmic problems while working through the SQL sectio
 - [Find All Anagrams in a String](../patterns/04_sliding_window/problems/438_find_all_anagrams.md) - Medium
 
 *SQL (2 problems):*
-- [Human Traffic of Stadium](../sql/01_window_functions/problems/601_human_traffic_of_stadium.md) - Hard
+- [Human Traffic of Stadium](../sql/01_window_functions/problems/601_human_traffic_of_stadium.md) - Hard ✅
 - [Managers with at Least 5 Reports](../sql/02_joins/problems/570_managers_with_5_reports.md) - Medium
 
 #### Day 19: Window Patterns + Heap (~3 hours)
