@@ -586,15 +586,15 @@ Deep dive into DE-specific SQL patterns, scenarios and system design.
 - [Students Report](../sql/04_recursive_ctes/problems/618_students_report.md) - Hard
 
 *DE Scenarios (2 scenarios):*
-- [Dedup with ROW_NUMBER](../sql/01_window_functions/de_scenarios/dedup_with_row_number.md)
-- [Sessionization](../sql/01_window_functions/de_scenarios/sessionization.md)
+- [Dedup with ROW_NUMBER](../sql/01_window_functions/de_scenarios/dedup_with_row_number.md) ✅
+- [Sessionization](../sql/01_window_functions/de_scenarios/sessionization.md) ✅
 
 #### Day 23: Window Function DE Scenarios + SQL Patterns (~2.5 hours)
 
 *DE Scenarios (3 scenarios):*
-- [Change Detection](../sql/01_window_functions/de_scenarios/change_detection.md)
-- [Running Totals](../sql/01_window_functions/de_scenarios/running_totals.md)
-- [Moving Averages](../sql/01_window_functions/de_scenarios/moving_averages.md)
+- [Change Detection](../sql/01_window_functions/de_scenarios/change_detection.md) ✅
+- [Running Totals](../sql/01_window_functions/de_scenarios/running_totals.md) ✅
+- [Moving Averages](../sql/01_window_functions/de_scenarios/moving_averages.md) ✅
 
 *SQL Advanced Patterns:*
 - Read [GROUPING SETS, ROLLUP and CUBE](../sql/05_optimization_and_production/advanced_patterns/grouping_sets.md)
